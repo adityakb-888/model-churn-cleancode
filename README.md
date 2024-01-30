@@ -1,6 +1,6 @@
 # Predict Customer Churn
 
-- Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
+- Project **Predict Customer Churn** 
 
 ## Project Description
 This project is about modelling and predicting customer churn based on banking data. Scripts are written using the logic inside churn_notebook.ipynb notebook. Codes were refactored and cleaned with PEP8 guidelines.
